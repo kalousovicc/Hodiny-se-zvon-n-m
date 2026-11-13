@@ -49,16 +49,17 @@ Maturitní projekt zaměřený na realizaci digitálních školních hodin s aut
     }
   },
   "rozvrh": [
-    { "cas": "07:55", "typ": "prestavka", "poznamka": "Příprava na 1. hodinu" },
-    { "cas": "08:00", "typ": "hodina",    "poznamka": "Začátek 1. hodiny" },
-    { "cas": "08:45", "typ": "prestavka", "poznamka": "Konec 1. hodiny" },
-    { "cas": "08:55", "typ": "hodina",    "poznamka": "Začátek 2. hodiny" },
-    { "cas": "09:40", "typ": "prestavka", "poznamka": "Velká přestávka" },
-    { "cas": "10:00", "typ": "hodina",    "poznamka": "Začátek 3. hodiny" },
-    { "cas": "10:45", "typ": "prestavka", "poznamka": "Konec 3. hodiny" },
-    { "cas": "10:55", "typ": "hodina",    "poznamka": "Začátek 4. hodiny" },
-    { "cas": "11:40", "typ": "prestavka", "poznamka": "Konec 4. hodiny" },
-    { "cas": "11:50", "typ": "hodina",    "poznamka": "Začátek 5. hodiny" },
-    { "cas": "12:35", "typ": "prestavka", "poznamka": "Polední přestávka" }
+    { "cas": "07:45", "typ": "hodina",     },
+    { "cas": "08:30", "typ": "prestavka",  },
+    { "cas": "08:35", "typ": "hodina",    },
+    { "cas": "09:20", "typ": "prestavka", },
+    { "cas": "09:25", "typ": "hodina",     },
+    { "cas": "10:10", "typ": "prestavka",  },
+    { "cas": "10:30", "typ": "hodina",     },
+    { "cas": "11:15", "typ": "prestavka",  },
+    { "cas": "11:25", "typ": "hodina",     },
+    { "cas": "12:10", "typ": "prestavka", }
+     { "cas": "12:20", "typ": "hodina", }
+   { "cas": "13:05", "typ": "prestavka", }
   ]
 }
