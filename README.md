@@ -1,2 +1,19 @@
 # Hodiny-se-zvon-n-m
-Cílem maturitního projektu je realizace funkčních školních hodin se zvoněním na platformě Waveshare Pico-Clock-Green 
+# Python / MicroPython
+__pycache__/
+*.py[cod]
+*$py.class
+.mpremote/
+
+# Lokální citlivé údaje (Wi-Fi / MQTT)
+secrets.py
+config_local.json
+
+# Vývojová prostředí (VS Code, Thonny, PyCharm)
+.vscode/
+.idea/
+*.swp
+
+# Operační systém
+.DS_Store
+Thumbs.db
