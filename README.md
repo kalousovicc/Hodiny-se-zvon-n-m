@@ -21,7 +21,7 @@ Maturitní projekt zaměřený na realizaci digitálních školních hodin s aut
 - `/docs` – osnova a text maturitní práce, schémata zapojení, fotodokumentace
 - `/cad` – podklady pro mechanické uchycení / 3D tisk krytu
 
-
+```py
 
 {
   "zvoneni_povoleno": true,
@@ -63,3 +63,4 @@ Maturitní projekt zaměřený na realizaci digitálních školních hodin s aut
    { "cas": "13:05", "typ": "prestavka", }
   ]
 }
+```
